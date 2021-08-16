@@ -33,3 +33,5 @@ HGNC:11013	NM_032513.3
 HGNC:11013	NM_001004434.1
 
 All genes from old g2t added
+
+Removed HGNC:1840, HGNC:26827, HGNC:3621, HGNC:4943, HGNC:7691 after review by scientists (red genes)
